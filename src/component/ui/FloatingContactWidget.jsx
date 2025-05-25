@@ -13,14 +13,14 @@ const FloatingContactWidget = () => {
       {isOpen && (
         <div className="mb-3 space-y-2 animate-fade-in ">
           <a
-            href="tel:+917800031888"
+            href="tel:+918175005005"
             className="bg-red-500 text-white text-2xl px-4 py-2 rounded-full shadow-md flex items-center space-x-2 hover:bg-red-600 transition"
           >
             <FaPhone />
             {/* <span>Call</span> */}
           </a>
           <a
-            href="https://wa.me/917800031888"
+            href="https://wa.me/918175005005"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 text-2xl text-white px-4 py-2 rounded-full shadow-md flex items-center space-x-2 hover:bg-green-600 transition"
